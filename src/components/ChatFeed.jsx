@@ -3,7 +3,7 @@ const ChatFeed = (props) => {
 
     return(
         <div>
-            ChatFeed
+            ChatFeed 
         </div>
     )
 }
