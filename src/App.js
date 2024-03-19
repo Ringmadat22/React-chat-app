@@ -10,6 +10,7 @@ const App = () => {
             userSecret="12345"
         />
     );
+    
 }
 
 export default App
