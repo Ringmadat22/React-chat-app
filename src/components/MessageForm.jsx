@@ -53,6 +53,7 @@ const MessageForm = (props) => {
         <SendOutlined className="send-icon" />
       </button>
     </form>
+    
   );
 };
 
